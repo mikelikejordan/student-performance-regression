@@ -6,7 +6,7 @@ A Python project predicting student math scores using test preparation and paren
 - **Dataset**: Students Performance in Exams (Kaggle: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 - **Tools**: Python, Pandas, scikit-learn, Matplotlib
 - **Insights**: Test prep boosts scores by ~5.53 points; parental education adds up to 3.23 points for master's degree.
-- **Blog Post**: [Link to your blog post once published]
+- **Blog Post**: https://mikelikejordan.bearblog.dev/from-educator-to-data-storyteller-using-python-to-uncover-student-success-factors/
 
 ## Project Overview
 This project analyzes how test preparation and parental education impact math scores using linear regression. Visualizations (bar and scatter plots) highlight trends, offering actionable insights for edutech applications. Developed as part of my journey from educator to machine learning enthusiast.
