@@ -15,6 +15,10 @@ This project analyzes how test preparation and parental education impact math sc
 - `stud_perf_regress_proj_refined.py`: Main script with data loading, modeling, and visualizations.
 - Dataset available on Kaggle (see link above).
 
+## Visualizations
+![Bar Plot](bar_plot.png)
+![Scatter Plot](scatter_plot.png)
+
 ## How to Run
 1. Clone the repo: `git clone https://github.com/mikelikejordan/student-performance-regression.git`
 2. Download the dataset from Kaggle and place it in the project directory as `StudentsPerformance.csv`.
